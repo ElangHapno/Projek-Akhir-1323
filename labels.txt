@@ -1,0 +1,6 @@
+0 Dampak Buruk bagi Daratan
+1 Dampak Baik bagi Daratan
+2 Dampak Buruk bagi Udara
+3 Dampak Baik bagi Udara
+4 Dampak Buruk bagi Lautan
+5 Dampak Baik bagi Lautan
